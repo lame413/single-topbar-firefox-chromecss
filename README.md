@@ -2,4 +2,4 @@
 
 ![](/previews/preview-1.png)
 
-Made to be used with TreeStyleTabs
+Made to be used with TreeStyleTabs.
