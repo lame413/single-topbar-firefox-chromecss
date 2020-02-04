@@ -15,3 +15,5 @@ To get to your to your Firefox profile, either navigate [about:profiles](about:p
 * Windows: C:\Users\<username>\AppData\Roaming\Mozilla\Firefox\Profiles\xxxxxxxx.default
 * Mac: Users/<username>/Library/Application Support/Firefox/Profiles/xxxxxxxx.default
 
+Once you're done, the file's full path should look something like this:
+* /home/<username>/.mozilla/firefox/xxxxxxxx.default/chrome/userChrome.css
