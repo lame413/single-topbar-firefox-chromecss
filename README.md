@@ -11,9 +11,9 @@ Save the file in the 'chrome' folder located in your Firefox's profile directory
 
 To get to your to your Firefox profile, either navigate [about:profiles](about:profiles) and open the root directory, or go there manually:
 
-* Linux: /home/<username>\/.mozilla/firefox/xxxxxxxx.default
-* Windows: C:\Users\<username>\AppData\Roaming\Mozilla\Firefox\Profiles\xxxxxxxx.default
-* Mac: Users/<username>/Library/Application Support/Firefox/Profiles/xxxxxxxx.default
+* Linux: /home/\<username\>/.mozilla/firefox/xxxxxxxx.default
+* Windows: C:\Users\\<username\>\AppData\Roaming\Mozilla\Firefox\Profiles\xxxxxxxx.default
+* Mac: Users/\<username\>/Library/Application Support/Firefox/Profiles/xxxxxxxx.default
 
 Once you're done, the file's full path should look something like this:
-* /home/<username>\/.mozilla/firefox/xxxxxxxx.default/chrome/userChrome.css
+* /home/\<username\>/.mozilla/firefox/xxxxxxxx.default/chrome/userChrome.css
